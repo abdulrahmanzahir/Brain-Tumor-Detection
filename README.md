@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-![Brain Tumor Banner](https://www.mathewsopenaccess.com/userfiles/images/Psychiatry/Figure%201(5).png)
+![Brain Tumor Banner](https://www.mathewsopenaccess.com/userfiles/images/Psychiatry/Figure%146(2).png)
 
 This project extends a well-structured notebook originally created by **Ruslan Klymentiev**, which explores CNN-based classification of brain MRI scans.
 
