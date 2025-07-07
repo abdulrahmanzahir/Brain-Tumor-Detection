@@ -6,7 +6,9 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-![Brain MRI](https://miro.medium.com/v2/resize:fit:1200/1*PptYTwA0nztvqRxI8hJrdA.png)
+![Brain MRI Scan](https://prod-images-static.radiopaedia.org/images/13656021/d022d1079185636184f1044834e3cb.png)
+
+*Image from [Radiopaedia.org](https://radiopaedia.org) for educational use*
 
 This project extends a well-structured notebook originally created by **Ruslan Klymentiev**, which explores CNN-based classification of brain MRI scans.
 
